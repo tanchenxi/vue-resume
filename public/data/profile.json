@@ -1,85 +1,75 @@
 {
-    "name": "Roy Sheppard",
-    "profilePictureUrl": "images/pictures/avatar.png",
+  "name": "Dawn Tan",
+  "profilePictureUrl": "images/pictures/avatar.png",
 
-    "locales": {
-        "en": {
-            "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
-        },
-
-        "es": {
-            "credits": "Hecho por <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
-        },
-
-        "fr": {
-            "credits": "Conçu par <strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
-        },
-
-        "zh": {
-            "name": "罗伊谢帕德",
-            "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
-        }
+  "locales": {
+    "en": {
+      "credits": "Designed by <strong><a href='https://github.com/ryanbalieiro'>Dawn Tan</a></strong>",
+      "role": "Java Developer"
     },
 
-    "contactOptions": [
-        {
-            "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino – CA",
-            "faIcon": "fa-regular fa-map",
-            "href": null
-        },
+    "zh": {
+      "name": "谭晨曦",
+      "credits": "设计：<strong><a href='https://github.com/ryanbalieiro'>谭晨曦</a></strong>",
+      "role": "Java 开发工程师"
+    }
+  },
 
-        {
-            "id": "email",
-            "value": "roy.sheppard@genius.com",
-            "valueShort": "roy.sheppard@genius.com",
-            "faIcon": "fa-regular fa-envelope",
-            "href": "mailto:roy.sheppard@genius.com"
-        },
+  "contactOptions": [
+    {
+      "id": "address",
+      "value": "Shenzhen, Guangdong, China",
+      "valueShort": "Nanshan, Shenzhen",
+      "faIcon": "fa-regular fa-map",
+      "href": null
+    },
 
-        {
-            "id": "facebook",
-            "value": "Roy Sheppard",
-            "valueShort": "Roy S.",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
-        },
+    {
+      "id": "email",
+      "value": "dawndawntan@outlook.com",
+      "valueShort": "dawndawntan@outlook.com",
+      "faIcon": "fa-regular fa-envelope",
+      "href": "mailto:dawndawntan@outlook.com"
+    },
 
-        {
-            "id": "github",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
-        },
+    {
+      "id": "facebook",
+      "value": "Dawn Tan",
+      "valueShort": "Dawn T.",
+      "faIcon": "fa-brands fa-facebook",
+      "href": "https://facebook.com"
+    },
 
-        {
-            "id": "instagram",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
-        },
+    {
+      "id": "github",
+      "value": "@dawn.tan.official",
+      "valueShort": "@dawn.tan.official",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com"
+    },
 
-        {
-            "id": "linkedin",
-            "value": "@roy.sheppard.official",
-            "valueShort": "@roy.sheppard.official",
-            "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
-        },
+    {
+      "id": "instagram",
+      "value": "@dawn.tan.official",
+      "valueShort": "@dawn.tan.official",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://instagram.com"
+    },
 
-        {
-            "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
-            "faIcon": "fa-brands fa-whatsapp",
-            "href": "tel:1234567890"
-        }
-    ]
+    {
+      "id": "linkedin",
+      "value": "@dawn.tan.official",
+      "valueShort": "@dawn.tan.official",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://linkedin.com"
+    },
+
+    {
+      "id": "phone",
+      "value": "17873672353",
+      "valueShort": "17873672353",
+      "faIcon": "fa-brands fa-whatsapp",
+      "href": "tel:17873672353"
+    }
+  ]
 }

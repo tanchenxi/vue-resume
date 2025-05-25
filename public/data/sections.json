@@ -13,18 +13,6 @@
                     "description": null,
                     "nav_label": "About"
                 },
-                "es": {
-                    "title": "¡Bienvenido a *mi CV!*",
-                    "title_short": "Bienvenido!",
-                    "description": null,
-                    "nav_label": "Acerca de"
-                },
-                "fr": {
-                    "title": "Bienvenue sur *mon CV!*",
-                    "title_short": "Bienvenue !",
-                    "description": null,
-                    "nav_label": "À propos"
-                },
                 "zh": {
                     "title": "欢迎来到我的*简历！*",
                     "title_short": "欢迎！",
@@ -46,18 +34,6 @@
                     "title_short": null,
                     "description": "A glimpse into my academic trajectory and accomplishments.",
                     "nav_label": "Education"
-                },
-                "es": {
-                    "title": "Antecedentes *Educativos*",
-                    "title_short": null,
-                    "description": "Un vistazo a mi trayectoria académica y logros.",
-                    "nav_label": "Educación"
-                },
-                "fr": {
-                    "title": "Parcours *Éducatif*",
-                    "title_short": null,
-                    "description": "Un aperçu de mon parcours académique et de mes réalisations.",
-                    "nav_label": "Éducation"
                 },
                 "zh": {
                     "title": "*教育* 背景",
@@ -81,18 +57,6 @@
                     "description": "Exploring the diverse range of skills I've acquired and developed:",
                     "nav_label": "Skills"
                 },
-                "es": {
-                    "title": "Conjunto de *Habilidades*",
-                    "title_short": null,
-                    "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:",
-                    "nav_label": "Habilidades"
-                },
-                "fr": {
-                    "title": "Ensemble de *Compétences*",
-                    "title_short": null,
-                    "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:",
-                    "nav_label": "Compétences"
-                },
                 "zh": {
                     "title": "*技能* 集",
                     "title_short": null,
@@ -115,18 +79,6 @@
                     "description": "A look into my work experience and career journey.",
                     "nav_label": "Experience"
                 },
-                "es": {
-                    "title": "Experiencia *Profesional*",
-                    "title_short": null,
-                    "description": "Un vistazo a mi experiencia laboral y trayectoria profesional.",
-                    "nav_label": "Experiencia"
-                },
-                "fr": {
-                    "title": "Expérience *Professionnelle*",
-                    "title_short": null,
-                    "description": "Un aperçu de mon expérience professionnelle et de mon parcours de carrière.",
-                    "nav_label": "Expérience"
-                },
                 "zh": {
                     "title": "*专业* 经验",
                     "title_short": null,
@@ -147,18 +99,6 @@
                     "title": "My *Portfolio*",
                     "title_short": null,
                     "description": "Explore a selection of my recent projects and creative works.",
-                    "nav_label": "Portfolio"
-                },
-                "es": {
-                    "title": "Mi *Portafolio*",
-                    "title_short": null,
-                    "description": "Explora una selección de mis proyectos recientes y trabajos creativos.",
-                    "nav_label": "Portafolio"
-                },
-                "fr": {
-                    "title": "Mon *Portfolio*",
-                    "title_short": null,
-                    "description": "Découvrez une sélection de mes projets récents et œuvres créatives.",
                     "nav_label": "Portfolio"
                 },
                 "zh": {
@@ -183,18 +123,6 @@
                     "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
                     "nav_label": "Achievements"
                 },
-                "es": {
-                    "title": "Logros *Profesionales*",
-                    "title_short": null,
-                    "description": "Mi trayectoria como diseñador de UX ha estado marcada por una dedicación inquebrantable al aprendizaje y mejora de habilidades, junto con una participación entusiasta en eventos de diseño. Como resultado, he recopilado una lista de premios y certificaciones notables:",
-                    "nav_label": "Logros"
-                },
-                "fr": {
-                    "title": "Réalisations *Professionnelles*",
-                    "title_short": null,
-                    "description": "Mon parcours en tant que concepteur UX a été marqué par une dédication inébranlable à l'apprentissage et à l'amélioration des compétences, ainsi que par une participation enthousiaste à des événements de conception. En conséquence, j'ai dressé une liste de récompenses et de certifications remarquables:",
-                    "nav_label": "Réalisations"
-                },
                 "zh": {
                     "title": "职业*成就*",
                     "title_short": null,
@@ -217,18 +145,6 @@
                     "description": "This is pretty much how I spend my free time:",
                     "nav_label": "Hobbies"
                 },
-                "es": {
-                    "title": "*Pasatiempos* e Intereses",
-                    "title_short": null,
-                    "description": "Así es más o menos cómo paso mi tiempo libre:",
-                    "nav_label": "Aficiones"
-                },
-                "fr": {
-                    "title": "*Loisirs* et Intérêts",
-                    "title_short": null,
-                    "description": "C'est à peu près ainsi que je passe mon temps libre:",
-                    "nav_label": "Loisirs"
-                },
                 "zh": {
                     "title": "*爱好*与兴趣",
                     "title_short": null,
@@ -249,18 +165,6 @@
                     "title": "*Contact* Me",
                     "title_short": null,
                     "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
-                    "nav_label": "Contact"
-                },
-                "es": {
-                    "title": "Ponte en *Contacto*",
-                    "title_short": null,
-                    "description": "¡Por favor, no dudes en ponerte en contacto conmigo siempre que lo necesites!",
-                    "nav_label": "Contacto"
-                },
-                "fr": {
-                    "title": "*Contactez*-moi",
-                    "title_short": null,
-                    "description": "N'hésitez pas à me contacter chaque fois que vous en avez besoin!",
                     "nav_label": "Contact"
                 },
                 "zh": {

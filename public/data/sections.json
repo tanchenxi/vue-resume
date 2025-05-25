@@ -1,179 +1,172 @@
 {
-    "sections": [
-        {
-            "id": "about",
-            "categoryId": "home",
-            "jsonPath": "/sections/cover.json",
-            "faIcon": "fa-solid fa-address-card",
-            "type": "centered",
-            "locales": {
-                "en": {
-                    "title": "Welcome to *my resume!*",
-                    "title_short": "Welcome!",
-                    "description": null,
-                    "nav_label": "About"
-                },
-                "zh": {
-                    "title": "欢迎来到我的*简历！*",
-                    "title_short": "欢迎！",
-                    "description": null,
-                    "nav_label": "关于"
-                }
-            }
+  "sections": [
+    {
+      "id": "about",
+      "categoryId": "home",
+      "jsonPath": "/sections/cover.json",
+      "faIcon": "fa-solid fa-address-card",
+      "type": "centered",
+      "locales": {
+        "en": {
+          "title": "Welcome to my resume!",
+          "title_short": "Welcome!",
+          "description": "A brief introduction to who I am and what I do.",
+          "nav_label": "About"
         },
-
-        {
-            "id": "education",
-            "categoryId": "background",
-            "jsonPath": "/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Educational* Background",
-                    "title_short": null,
-                    "description": "A glimpse into my academic trajectory and accomplishments.",
-                    "nav_label": "Education"
-                },
-                "zh": {
-                    "title": "*教育* 背景",
-                    "title_short": null,
-                    "description": "一瞥我的学术轨迹和成就。",
-                    "nav_label": "教育背景"
-                }
-            }
-        },
-
-        {
-            "id": "skills",
-            "categoryId": "showcase",
-            "jsonPath": "/sections/skills.json",
-            "faIcon": "fa-solid fa-tools",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Skill* Set",
-                    "title_short": null,
-                    "description": "Exploring the diverse range of skills I've acquired and developed:",
-                    "nav_label": "Skills"
-                },
-                "zh": {
-                    "title": "*技能* 集",
-                    "title_short": null,
-                    "description": "探索我所掌握和发展的多样技能:",
-                    "nav_label": "技能"
-                }
-            }
-        },
-
-        {
-            "id": "experience",
-            "categoryId": "background",
-            "jsonPath": "/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Professional* Experience",
-                    "title_short": null,
-                    "description": "A look into my work experience and career journey.",
-                    "nav_label": "Experience"
-                },
-                "zh": {
-                    "title": "*专业* 经验",
-                    "title_short": null,
-                    "description": "了解我的工作经验和职业之旅。",
-                    "nav_label": "工作经历"
-                }
-            }
-        },
-
-        {
-            "id": "portfolio",
-            "categoryId": "showcase",
-            "jsonPath": "/sections/portfolio.json",
-            "faIcon": "fa-solid fa-folder-open",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "My *Portfolio*",
-                    "title_short": null,
-                    "description": "Explore a selection of my recent projects and creative works.",
-                    "nav_label": "Portfolio"
-                },
-                "zh": {
-                    "title": "我的*作品集*",
-                    "title_short": null,
-                    "description": "浏览我最近的一些项目和创意作品。",
-                    "nav_label": "作品集"
-                }
-            }
-        },
-
-        {
-            "id": "achievements",
-            "categoryId": "showcase",
-            "jsonPath": "/sections/achievements.json",
-            "faIcon": "fa-solid fa-award",
-            "type": "row",
-            "locales": {
-                "en": {
-                    "title": "Career *Achievements*",
-                    "title_short": null,
-                    "description": "My journey as a UX designer has been marked by unwavering dedication to learning and skill enhancement, along with enthusiastic participation in design events. As a result, I have collected a list of notable awards and certifications:",
-                    "nav_label": "Achievements"
-                },
-                "zh": {
-                    "title": "职业*成就*",
-                    "title_short": null,
-                    "description": "作为一名UX设计师，我的旅程充满了对学习和技能提升的坚定执着，以及对设计活动的热情参与。因此，我汇总了一份显著奖项和认证的列表：",
-                    "nav_label": "成就"
-                }
-            }
-        },
-
-        {
-            "id": "hobbies",
-            "categoryId": "more",
-            "jsonPath": "/sections/hobbies.json",
-            "faIcon": "fa-solid fa-heart",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Hobbies* & Interests",
-                    "title_short": null,
-                    "description": "This is pretty much how I spend my free time:",
-                    "nav_label": "Hobbies"
-                },
-                "zh": {
-                    "title": "*爱好*与兴趣",
-                    "title_short": null,
-                    "description": "这基本上是我空闲时间的安排：",
-                    "nav_label": "兴趣爱好"
-                }
-            }
-        },
-
-        {
-            "id": "contact",
-            "categoryId": "more",
-            "jsonPath": "/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square",
-            "type": "column",
-            "locales": {
-                "en": {
-                    "title": "*Contact* Me",
-                    "title_short": null,
-                    "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
-                    "nav_label": "Contact"
-                },
-                "zh": {
-                    "title": "*联系*我",
-                    "title_short": null,
-                    "description": "如果您有任何需要，请随时与我联系！",
-                    "nav_label": "联系方式"
-                }
-            }
+        "zh": {
+          "title": "欢迎来到我的简历！",
+          "title_short": "欢迎！",
+          "description": "简要介绍我的背景和专长。",
+          "nav_label": "关于"
         }
-    ]
+      }
+    },
+    {
+      "id": "education",
+      "categoryId": "background",
+      "jsonPath": "/sections/education.json",
+      "faIcon": "fa-solid fa-graduation-cap",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "Educational Background",
+          "title_short": null,
+          "description": "An overview of my academic journey and achievements.",
+          "nav_label": "Education"
+        },
+        "zh": {
+          "title": "教育背景",
+          "title_short": null,
+          "description": "我的学习历程及所获成果。",
+          "nav_label": "教育背景"
+        }
+      }
+    },
+    {
+      "id": "skills",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/skills.json",
+      "faIcon": "fa-solid fa-tools",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "Skill Set",
+          "title_short": null,
+          "description": "A showcase of the diverse skills I've developed.",
+          "nav_label": "Skills"
+        },
+        "zh": {
+          "title": "技能集",
+          "title_short": null,
+          "description": "展示我掌握的多样技能。",
+          "nav_label": "技能"
+        }
+      }
+    },
+    {
+      "id": "experience",
+      "categoryId": "background",
+      "jsonPath": "/sections/experience.json",
+      "faIcon": "fa-solid fa-briefcase",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "Professional Experience",
+          "title_short": null,
+          "description": "Highlights of my professional career and roles.",
+          "nav_label": "Experience"
+        },
+        "zh": {
+          "title": "专业经验",
+          "title_short": null,
+          "description": "我的职业生涯和工作经历。",
+          "nav_label": "工作经历"
+        }
+      }
+    },
+    {
+      "id": "portfolio",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/portfolio.json",
+      "faIcon": "fa-solid fa-folder-open",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "My Portfolio",
+          "title_short": null,
+          "description": "A showcase of my latest projects and creative efforts.",
+          "nav_label": "Portfolio"
+        },
+        "zh": {
+          "title": "我的作品集",
+          "title_short": null,
+          "description": "展示我近期的项目和创意作品。",
+          "nav_label": "作品集"
+        }
+      }
+    },
+    {
+      "id": "achievements",
+      "categoryId": "showcase",
+      "jsonPath": "/sections/achievements.json",
+      "faIcon": "fa-solid fa-award",
+      "type": "row",
+      "locales": {
+        "en": {
+          "title": "Career Achievements",
+          "title_short": null,
+          "description": "Key milestones and recognitions in my career.",
+          "nav_label": "Achievements"
+        },
+        "zh": {
+          "title": "职业成就",
+          "title_short": null,
+          "description": "职业生涯中的重要里程碑和荣誉。",
+          "nav_label": "成就"
+        }
+      }
+    },
+    {
+      "id": "hobbies",
+      "categoryId": "more",
+      "jsonPath": "/sections/hobbies.json",
+      "faIcon": "fa-solid fa-heart",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "Hobbies & Interests",
+          "title_short": null,
+          "description": "A glimpse into how I like to spend my leisure time.",
+          "nav_label": "Hobbies"
+        },
+        "zh": {
+          "title": "爱好与兴趣",
+          "title_short": null,
+          "description": "我的闲暇时间都喜欢做什么。",
+          "nav_label": "兴趣爱好"
+        }
+      }
+    },
+    {
+      "id": "contact",
+      "categoryId": "more",
+      "jsonPath": "/sections/contact.json",
+      "faIcon": "fa-solid fa-pen-to-square",
+      "type": "column",
+      "locales": {
+        "en": {
+          "title": "Contact Me",
+          "title_short": null,
+          "description": "Feel free to reach out anytime.",
+          "nav_label": "Contact"
+        },
+        "zh": {
+          "title": "联系我",
+          "title_short": null,
+          "description": "欢迎随时与我联系。",
+          "nav_label": "联系方式"
+        }
+      }
+    }
+  ]
 }
